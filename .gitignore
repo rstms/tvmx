@@ -1,0 +1,7 @@
+tvmx
+tvmx.exe
+notes
+cruft
+*.core
+*.log
+*postactivate
